@@ -1,0 +1,51 @@
+22:12:12 OFFLOAD SIMULATOR STARTING
+22:12:12 Shared memory criada
+22:12:12 Task Manager: Processo taskmanager criado
+22:12:12 Maintenance Manager: Processo maintenanceManager criado
+22:12:12 Monitor: Processo monitor criado
+22:12:12 SERVER_1 pronto
+22:12:12 vcpu de SERVER_1 criado
+22:12:12 vcpu de SERVER_1 criado
+22:12:13 SERVER_2 pronto
+22:12:13 vcpu de SERVER_2 criado
+22:12:13 vcpu de SERVER_2 criado
+22:12:14 SERVER_3 pronto
+22:12:14 vcpu de SERVER_3 criado
+22:12:14 vcpu de SERVER_3 criado
+22:12:15 Task Manager: Going to open the pipe!
+22:12:16 Task Manager: Pipe is open!
+22:12:16 thread dispatcher criada
+22:12:16 Scheduler: thread scheduler criada
+22:12:16 Dispatcher: A tarefa de ID=1 foi enviada pelo unnamed pipe
+22:12:16 TAREFA DE ID 1 SELECIONADA PARA EXECUCAO NO SERVER 1
+22:12:17 Dispatcher: A tarefa de ID=2 foi enviada pelo unnamed pipe
+22:12:17 TAREFA DE ID 2 SELECIONADA PARA EXECUCAO NO SERVER 2
+22:12:18 Dispatcher: A tarefa de ID=3 foi enviada pelo unnamed pipe
+22:12:18 TAREFA DE ID 3 SELECIONADA PARA EXECUCAO NO SERVER 3
+22:12:29 Dispatcher: A tarefa de ID=4 foi enviada pelo unnamed pipe
+22:12:29 TAREFA DE ID 4 SELECIONADA PARA EXECUCAO NO SERVER 3
+22:12:30 Dispatcher: A tarefa de ID=5 foi enviada pelo unnamed pipe
+22:12:30 TAREFA DE ID 5 SELECIONADA PARA EXECUCAO NO SERVER 2
+22:12:36 Dispatcher: A tarefa de ID=6 foi enviada pelo unnamed pipe
+22:12:36 TAREFA DE ID 6 SELECIONADA PARA EXECUCAO NO SERVER 1
+22:12:41 Dispatcher: A tarefa de ID=7 foi enviada pelo unnamed pipe
+22:12:41 TAREFA DE ID 7 SELECIONADA PARA EXECUCAO NO SERVER 3
+22:12:41 Dispatcher: A tarefa de ID=8 foi enviada pelo unnamed pipe
+22:12:41 TAREFA DE ID 8 SELECIONADA PARA EXECUCAO NO SERVER 3
+22:12:43 Dispatcher: A tarefa de ID=9 foi enviada pelo unnamed pipe
+22:12:43 TAREFA DE ID 9 SELECIONADA PARA EXECUCAO NO SERVER 2
+22:12:52 Dispatcher: A tarefa de ID=10 foi enviada pelo unnamed pipe
+22:12:52 TAREFA DE ID 10 SELECIONADA PARA EXECUCAO NO SERVER 3
+22:13:5 Dispatcher: A tarefa de ID=11 foi enviada pelo unnamed pipe
+22:13:5 TAREFA DE ID 11 SELECIONADA PARA EXECUCAO NO SERVER 1
+22:13:6 Dispatcher: A tarefa de ID=12 foi enviada pelo unnamed pipe
+22:13:6 TAREFA DE ID 12 SELECIONADA PARA EXECUCAO NO SERVER 2
+22:13:7 Dispatcher: A tarefa de ID=13 foi enviada pelo unnamed pipe
+22:13:7 TAREFA DE ID 13 SELECIONADA PARA EXECUCAO NO SERVER 3
+22:13:18 Dispatcher: A tarefa de ID=14 foi enviada pelo unnamed pipe
+22:13:18 TAREFA DE ID 14 SELECIONADA PARA EXECUCAO NO SERVER 3
+22:13:18 Dispatcher: A tarefa de ID=15 foi removida devido a exceder o tempo de execução
+22:13:19 Dispatcher: A tarefa de ID=16 foi enviada pelo unnamed pipe
+22:13:19 TAREFA DE ID 16 SELECIONADA PARA EXECUCAO NO SERVER 2
+22:13:25 Dispatcher: A tarefa de ID=17 foi enviada pelo unnamed pipe
+22:13:25 TAREFA DE ID 17 SELECIONADA PARA EXECUCAO NO SERVER 1
